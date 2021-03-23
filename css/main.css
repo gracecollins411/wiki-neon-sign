@@ -69,7 +69,7 @@ nav ul {
 }
 
 nav li {
-  margin-top: 1rem; 
+  margin-top: .75rem; 
 }
 
 figure {
@@ -77,11 +77,6 @@ figure {
   border: 1px solid #ccc;
   margin-left: 0;
   margin-right: 0;
-}
-
-details {
-   font: 1.5em/1.5 Pacifico, serif;
-   color: #f3eb37;
 }
 
 figure img {
@@ -143,6 +138,7 @@ https://learncssgrid.com
     justify-content: start;
     gap: 1rem;
   }
+  
   
   nav li {
      margin-top: 0;
