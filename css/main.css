@@ -49,6 +49,11 @@ figure {
   margin-right: 0;
 }
 
+details {
+   font: 1.5em/1.5 Pacifico, serif;
+   color: #f3eb37;
+}
+
 figure img {
   border: 1px solid #ccc;
 }
