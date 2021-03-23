@@ -1,1 +1,119 @@
+/* 
+Reading:
+https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html
+*/
 
+html {
+  font: 100%/1.15 sans-serif;
+}
+
+/* Layout breakpoint without media query */
+
+body {
+  max-width: 48rem;
+  padding: 0 1rem;
+  margin: 1rem auto;
+  background-color:#000000;
+}
+
+a {
+  color:#12c0dd;
+  font: 1.05em/1.5 Nunito, serif;
+}
+/*
+Reading:
+https://alistapart.com/article/fluid-images/
+*/
+
+/* Responsive images */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+nav ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
+
+nav li {
+  margin-top: 1rem; 
+}
+
+figure {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  border: 1px solid #ccc;
+}
+
+figcaption {
+  font-size: 0.8em;
+  line-height: 1.3;
+  margin-top: 0.5rem;
+}
+
+p {
+  font: 1.05em/1.5 Nunito, serif;
+  color:#ffffff
+}
+
+  h1 a{
+    font: 1.5em/1.5 Phosphate, serif;
+    color: #eb68a7;
+  }
+  
+  h2 {
+    font: 1.5em/1.5 Pacifico, serif;
+    color: #f3eb37;
+  }
+
+/* Breakpoint for wider layout */
+
+/* 
+Reading:
+https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/ 
+*/
+
+@media (min-width: 48em) {
+  
+/* Rescale all text and/or em-based elements to improve readability (and overall user experience) */
+  
+  body {
+    font-size: 125%;
+  }
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/*
+Resource:
+https://learncssgrid.com
+*/
+  
+/* Switch to horizontal layout */
+  
+  nav ul {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    gap: 1rem;
+  }
+  
+  nav li {
+     margin-top: 0;
+  }
+  
+/*
+Resource:
+https://developer.mozilla.org/en-US/docs/Web/CSS/float
+*/
