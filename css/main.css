@@ -16,6 +16,36 @@ body {
   background-color:#000000;
 }
 
+.one {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #eb68a7;
+}
+
+.two {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #f7921e;
+}
+
+.three {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #f3eb37;
+}
+
+.four {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #75c043;
+}
+
+.five {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #12c0dd;
+}
+
+.six {
+  font: 1.5em/1.5 Pacifico, serif;
+  color: #9b499c;
+}
+
 a {
   color:#12c0dd;
   font: 1.05em/1.5 Nunito, serif;
