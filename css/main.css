@@ -68,9 +68,15 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 
-
 li a:hover {
-  background-color: #f3eb37;
+  background: #fff;
+  padding: 9px;
+  text-shadow:
+    0 0 5px #f3eb37,
+    0 0 10px #f3eb37,
+    0 0 20px #f3eb37,
+    0 0 40px #f3eb37,
+    0 0 80px #f3eb37;
 }
 
 /* 
