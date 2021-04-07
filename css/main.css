@@ -1,3 +1,78 @@
+h1 {
+  color: #fff;
+  text-shadow:
+    0 0 5px #12c0dd,
+    0 0 10px #12c0dd,
+    0 0 20px #12c0dd,
+    0 0 40px #12c0dd,
+    0 0 80px #12c0dd,
+    0 0 90px #12c0dd;
+}
+
+  h1 {
+    font: 4em/1.5 Pacifico, serif;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+  
+  h2 {
+    padding-top: 20px;
+    font: 1.8em/1.5 Comfortaa, serif;
+    color: #fff;
+  }
+
+h2 {
+    color: #fff;
+  text-shadow:
+    0 0 5px #f0f,
+    0 0 10px #f0f,
+    0 0 20px #f0f,
+    0 0 40px #f0f,
+    0 0 80px #f0f,
+    0 0 90px #f0f;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+li {
+  float: left;
+}
+
+.box {
+  background: #fff;
+  border-radius: 25px;
+  border: 2px solid #fff;
+  padding: 9px;
+  box-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #f3eb37,
+    0 0 40px #f3eb37;
+}
+
+li a {
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+
+li a:hover {
+  background-color: #f3eb37;
+}
+
 /* 
 Reading:
 https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html
@@ -68,9 +143,6 @@ nav ul {
   padding-left: 0; /* Remove left padding for flush left appearance */
 }
 
-nav li {
-  margin-top: .75rem; 
-}
 
 figure {
   padding: 1rem;
@@ -98,16 +170,6 @@ p {
   font: 1.05em/1.5 Nunito, serif;
   color:#ffffff
 }
-
-  h1 a{
-    font: 1.5em/1.5 Phosphate, serif;
-    color: #eb68a7;
-  }
-  
-  h2 {
-    font: 1.5em/1.5 Pacifico, serif;
-    color: #f3eb37;
-  }
 
 /* Breakpoint for wider layout */
 
