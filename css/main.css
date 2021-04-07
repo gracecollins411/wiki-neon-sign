@@ -91,12 +91,10 @@ html {
 /* Layout breakpoint without media query */
 
 body {
+  max-width: 80rem;
   padding: 0 1rem;
   margin: 1rem auto;
   background-color:#000000;
-  margin: 0px;
-  min-height: 100%;
-  width: 90%;
 }
 
 details p {
