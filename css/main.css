@@ -92,33 +92,75 @@ body {
 }
 
 .one {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #eb68a7;
+  font: 1.5em/1.5 Comfortaa, serif;
+     color: #fff;
+    text-shadow:
+    0 0 5px #eb68a7,
+    0 0 10px #eb68a7,
+    0 0 20px #eb68a7,
+    0 0 40px #eb68a7,
+    0 0 80px #eb68a7,
+    0 0 90px #eb68a7;
 }
 
 .two {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #f7921e;
+  font: 1.5em/1.5 Comfortaa, serif;
+    color: #fff;
+    text-shadow:
+    0 0 5px #f7921e,
+    0 0 10px #f7921e,
+    0 0 20px #f7921e,
+    0 0 40px #f7921e,
+    0 0 80px #f7921e,
+    0 0 90px #f7921e;
 }
 
 .three {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #f3eb37;
+  font: 1.5em/1.5 Comfortaa, serif;
+    color: #fff;
+    text-shadow:
+    0 0 5px #f3eb37,
+    0 0 10px #f3eb37,
+    0 0 20px #f3eb37,
+    0 0 40px #f3eb37,
+    0 0 80px #f3eb37,
+    0 0 90px #f3eb37;
 }
 
 .four {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #75c043;
+  font: 1.5em/1.5 Comfortaa, serif;
+  color: #fff;
+    text-shadow:
+    0 0 5px #75c043,
+    0 0 10px #75c043,
+    0 0 20px #75c043,
+    0 0 40px #75c043,
+    0 0 80px #75c043,
+    0 0 90px #75c043;
 }
 
 .five {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #12c0dd;
+  font: 1.5em/1.5 Comfortaa, serif;
+    color: #fff;
+  text-shadow:
+    0 0 5px #12c0dd,
+    0 0 10px #12c0dd,
+    0 0 20px #12c0dd,
+    0 0 40px #12c0dd,
+    0 0 80px #12c0dd,
+    0 0 90px #12c0dd;
 }
 
 .six {
-  font: 1.5em/1.5 Pacifico, serif;
-  color: #9b499c;
+  font: 1.5em/1.5 Comfortaa, serif;
+  color: #fff;
+  text-shadow:
+    0 0 5px #9b499c,
+    0 0 10px #9b499c,
+    0 0 20px #9b499c,
+    0 0 40px #9b499c,
+    0 0 80px #9b499c,
+    0 0 90px #9b499c;
 }
 
 a {
