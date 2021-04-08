@@ -104,6 +104,7 @@ details p {
 
 .one summary{
   font: 1.5em/1.5 Comfortaa, serif;
+     padding-bottom: 1em;
      color: #fff;
     text-shadow:
     0 0 5px #eb68a7,
@@ -116,6 +117,7 @@ details p {
 
 .two summary{
   font: 1.5em/1.5 Comfortaa, serif;
+    padding-bottom: 1em;
     color: #fff;
     text-shadow:
     0 0 5px #f7921e,
@@ -128,6 +130,7 @@ details p {
 
 .three summary{
   font: 1.5em/1.5 Comfortaa, serif;
+    padding-bottom: 1em;
     color: #fff;
     text-shadow:
     0 0 5px #f3eb37,
@@ -140,6 +143,7 @@ details p {
 
 .four summary{
   font: 1.5em/1.5 Comfortaa, serif;
+  padding-bottom: 1em;
   color: #fff;
     text-shadow:
     0 0 5px #75c043,
@@ -152,6 +156,7 @@ details p {
 
 .five summary{
   font: 1.5em/1.5 Comfortaa, serif;
+    padding-bottom: 1em;
     color: #fff;
   text-shadow:
     0 0 5px #12c0dd,
@@ -164,6 +169,7 @@ details p {
 
 .six summary{
   font: 1.5em/1.5 Comfortaa, serif;
+  padding-bottom: 1em;
   color: #fff;
   text-shadow:
     0 0 5px #9b499c,
