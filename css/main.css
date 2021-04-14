@@ -10,7 +10,7 @@ h1 {
 }
 
   h1 {
-    font: 4em/1.5 Pacifico, sans-serif;
+    font: 5em/1.5 Pacifico, sans-serif;
     color: #fff;
     text-align: center;
     padding-bottom: 15px;
@@ -207,13 +207,21 @@ nav ul {
 figure {
   padding: 1rem;
   border: 1px solid #ccc;
-  margin-left: 0;
-  margin-right: 0;
   max-width: 50%;
+    float: right;
+    width: 33.333333333333333%;
+    margin-top: 0;
+    margin-left: 1rem;
+    margin-bottom: 0;
 }
 
 figure img {
   border: 1px solid #ccc;
+    float: right;
+    width: 33.333333333333333%;
+    margin-top: 0;
+    margin-left: 1rem;
+    margin-bottom: 0;
 }
 
 figcaption {
