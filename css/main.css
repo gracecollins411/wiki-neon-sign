@@ -203,14 +203,6 @@ nav ul {
   padding-left: 0; /* Remove left padding for flush left appearance */
 }
 
-
-figure {
-    float: right;
-    margin-top: 0;
-    margin-left: 1rem;
-    margin-bottom: 0;
-}
-
 figure img {
   border: 1px solid #ccc;
     float: right;
