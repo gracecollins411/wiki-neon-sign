@@ -182,7 +182,7 @@ details p {
 
 a {
   color:#12c0dd;
-  font: 1.05em/1.5 Nunito, sans-serif;
+  font: 1.05em/1.5 Nunito, Lucida-Sans, sans-serif;
 }
 /*
 Reading:
@@ -218,7 +218,7 @@ figcaption {
   margin-top: 0.5rem;
 }
 p {
-  font: 1.05em/1.5 Nunito, sans-serif;
+  font: 1.05em/1.5 Nunito, Lucida-Sans, sans-serif;
   color:#ffffff;
 }
 
