@@ -10,7 +10,7 @@ h1 {
 }
 
   h1 {
-    font: 5em/1.5 Pacifico, Harlow-Solid-Italic, Script-MT-Bold, sans-serif;
+    font: 5em/1.5 Pacifico, segoe-script, brush-script, sans-serif;
     color: #fff;
     text-align: center;
     padding-bottom: 15px;
@@ -18,7 +18,7 @@ h1 {
   
   h2 {
     padding-top: 20px;
-    font: 1.8em/1.5 Comfortaa, sans-serif;
+    font: 1.8em/1.5 Comfortaa, Century-Gothic, sans-serif;
     color: #fff;
   }
 
