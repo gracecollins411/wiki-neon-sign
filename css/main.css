@@ -43,6 +43,10 @@ ul {
   background-color: #fff;
 }
 
+summary {
+   text-transform: uppercase;
+}
+
 li {
   float: left;
 }
